@@ -73,10 +73,10 @@ npm start
 
 ## 👥 Team
 
-**Developed for [Dataweb 2026]**
+**Developed for Dataweb 2026**
 
-* **Team Name:** [Adhayayan]
-* **Project Lead:** [Shobhan Kar]
+* **Team Name:** Adhayayan
+* **Project Lead:** Shobhan Kar
 
 ---
 
